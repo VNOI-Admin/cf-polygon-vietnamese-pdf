@@ -54,6 +54,6 @@ back to the contest page, and choose `Preview Statements as PDF`/`Preview
 Tutorials as PDF` with `Vietnamese` option to see the coressponding generated
 PDF files.
 
-[polygon]: polygon.codeforces.com
+[polygon]: https://polygon.codeforces.com
 [olymp.sty]: https://github.com/GassaFM/olymp.sty/tree/master
 [freemarker]: https://freemarker.apache.org/index.html
